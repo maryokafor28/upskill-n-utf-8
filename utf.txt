@@ -5,4 +5,10 @@ ie to know what character encoding was used in html document.
 Character encoding defines how charcters are represented as binary data,which is fundamental for web browser
 to interpret and display text correctly
 It ensures correct text representation, when used incorrectly, can cause character display issues
-The charset is been used depends on the language you are using for encoding
+it facilitates proper rendering of text in different language and character set
+
+NOT INCLUDING METACHARSET IN YOUR HTML FILE CAN LEAD TO;
+Character corruption
+inconsistent renderin: different browsers may interpret the document differently,causing inconsistent rendering 
+across device.
+Search engines may misinterpret content, affecting your website visibility in search result.
