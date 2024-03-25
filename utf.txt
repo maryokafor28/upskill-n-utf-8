@@ -1,1 +1,8 @@
-significance of the meta charset utf-8
+SIGNIFICANCE OF THE META CHARSET UTF-8
+
+The metacharset is used to indicate the web page's character encoding. 
+ie to know what character encoding was used in html document.
+Character encoding defines how charcters are represented as binary data,which is fundamental for web browser
+to interpret and display text correctly
+It ensures correct text representation, when used incorrectly, can cause character display issues
+The charset is been used depends on the language you are using for encoding
